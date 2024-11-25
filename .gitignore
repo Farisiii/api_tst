@@ -58,3 +58,4 @@ local_settings.py
 # System Files
 .DS_Store
 Thumbs.db
+.vercel

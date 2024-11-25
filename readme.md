@@ -23,7 +23,7 @@ Sebuah API RESTful berbasis FastAPI untuk mengelola pemesanan layanan, termasuk 
 1. Clone repositori:
 
 ```bash
-git clone <url-repositori>
+git clone https://github.com/Farisiii/api_tst.git
 cd service-booking-api
 ```
 
